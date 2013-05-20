@@ -1,0 +1,18 @@
+{
+  "content_scripts": [
+    "github.js"
+  ], 
+  "description": "Extension description", 
+  "creator": "Kango", 
+  "background_scripts": [
+    "main.js"
+  ], 
+  "homepage_url": "http://kangoextensions.com/", 
+  "version": "0.9.0", 
+  "browser_button": {
+    "caption": "Kango", 
+    "icon": "icons/button.png", 
+    "tooltipText": "Kango"
+  }, 
+  "name": "Code Sponsor"
+}

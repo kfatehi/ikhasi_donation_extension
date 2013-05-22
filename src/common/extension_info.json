@@ -2,7 +2,7 @@
   "content_scripts": [
     "github.js"
   ], 
-  "description": "Extension description", 
+  "description": "Adds donation features to sites.", 
   "creator": "Kango", 
   "background_scripts": [
     "main.js"
@@ -14,5 +14,5 @@
     "icon": "icons/button.png", 
     "tooltipText": "Kango"
   }, 
-  "name": "Code Sponsor"
+  "name": "gitcontrib"
 }
